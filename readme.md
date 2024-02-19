@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Whisnumurty">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Whisnumurty+Galih+Ananta">「 Google Me 」</a>
     <br>
     「 I am a Web, Data & Machine Learning Enthusiast from <b>Indonesia</b> 」
     <br>
